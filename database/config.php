@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'u533139852_musily', 'musily123', 'u533139852_musily');
+$db = mysqli_connect('localhost', 'root', '', 'musily');
 
 $error = array();
 
